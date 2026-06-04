@@ -2,6 +2,7 @@
   "name": "cricket-admin",
   "version": "1.0.0",
   "description": "Cricket Pro Admin Panel",
+  "engines": { "node": ">=18" },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
